@@ -8,6 +8,11 @@
 - Operations Research
 - Predictive Analytics
 
+## Project Overview
+The project develops and solves a series of linear programming models for the State Emergency Logistics Agency (SELA). The objective is to minimize monthly distribution costs while satisfying relief kit demand across multiple service regions.
+
+The project was completed using AMPL in Colab and consists of three optimization scenarios.
+
 ## Business Problem
 The State Emergency Logistics Agency (SELA) distributes emergency relief kits through a statewide logistics network. The objective was to determine the lowest-cost distribution strategy while ensuring all demand locations received required inventory.
 
@@ -17,7 +22,15 @@ The project evaluated:
 2. Expansion planning using candidate facilities with fixed operating costs.
 3. Scenario analysis under changing transportation costs and route disruptions.
 
+## Problem Components
+### Part 1: Transportation Model
+Optimized shipments from existing facilities to demand locations.
 
+### Part 2: Facility Expansion Model
+Evaluated candidate facilities considering transportation and fixed operating costs.
+
+### Part 3: Cost Change Scenario
+Re-solved the expansion model under modified transportation costs and interpreted the results.
 
 
 
