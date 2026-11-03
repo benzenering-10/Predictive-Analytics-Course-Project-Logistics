@@ -40,7 +40,7 @@ Re-solved the expansion model under modified transportation costs and interprete
 ## Deliverables
 [View Report and Project Notebook](./BAN501_Course_Project_Mason_Michele.ipynb%20-%20Colab.pdf)
 
-## Mathematical Formulations
+## Mathematical Formulations, Solver Outputs, and Recommendations
 ### Part 1: Transportation Linear Program
 
 <img width="464" height="397" alt="image" src="https://github.com/user-attachments/assets/a849114a-616e-4a9f-9c22-38663d7d00f7" />
@@ -51,14 +51,19 @@ Re-solved the expansion model under modified transportation costs and interprete
 
 <img width="423" height="500" alt="image" src="https://github.com/user-attachments/assets/92f5c81b-27fb-458f-baf2-1bff31d885af" />
 
+<img width="470" height="474" alt="image" src="https://github.com/user-attachments/assets/3388e525-c826-4949-b7e2-d45cfc49ed84" />
 
-
-
+<img width="805" height="128" alt="image" src="https://github.com/user-attachments/assets/e6916c5a-5833-4de1-b04a-bcebb1d7e1bd" />
 
 ### Part 2: Facility Location Model
 <img width="763" height="894" alt="image" src="https://github.com/user-attachments/assets/85d049fd-d5f7-428a-9050-d586ec84045c" />
 
+<img width="656" height="827" alt="image" src="https://github.com/user-attachments/assets/5f7aa5dc-337d-42df-ab66-d42b561c3b8b" />
+
+<img width="771" height="207" alt="image" src="https://github.com/user-attachments/assets/c6e828fd-ab26-463d-a7ba-0098c4ade546" />
+
 
 ### Part 3: Sensitivity Analysis
+<img width="777" height="816" alt="image" src="https://github.com/user-attachments/assets/8e1f40dd-6678-483e-a02f-82199fa513de" />
 
 
