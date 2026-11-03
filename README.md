@@ -2,7 +2,7 @@
 (Network Optimization, Google CoLab, AMPL, Linear Programming, Logistics, Problem Solving)
 
 ## Project Description
-This predictive analytics project came in three parts. The handwritten mathematical model was required to be handwritten prior to implementing it in AMPL in Colab to solve each of the three parts. There were included markdown cells to complete that required narrative answers. Finally, the completed notebook had to be saved as a PDF for submission.
+This predictive analytics project came in three parts. The handwritten mathematical model was required to be handwritten prior to implementing it in AMPL in Colab to solve each of the three parts. There were included markdown cells to complete that required narrative answers. Finally, the completed notebook had to be saved as a PDF for submission. The final PDF export must show mathematical formulations, AMPL code, solver output, network flow tables, and written interpretations.
 
 ## Case Study: State Emergency Logistics Agency (SELA) Network Optimization
 ### Introduction
