@@ -16,8 +16,9 @@ Use the canonical IDs in all models and tables:
 - Demand locations: D1, D2, D3, D4, D5, D6
 - Candidate facilities: A, B, C, D
 
-  ### Part 1: Optimizing the Current Network
+### Part 1: Optimizing the Current Network
 SELA currently operates two facilities: the Northern Emergency Depot (E1) and the Coastal Emergency Depot (E2). These two depots serve five distinct demand zones. SELA leadership wants to find the absolute lowest cost to allocate the current monthly demand across this existing network.
+
 <img width="566" height="445" alt="image" src="https://github.com/user-attachments/assets/dcfddc96-5f2e-4efa-b591-d89757e3e4c3" />
 
 <img width="556" height="262" alt="image" src="https://github.com/user-attachments/assets/e7a6ed7a-9d09-4e7d-b0f4-08b0b42f76da" />
