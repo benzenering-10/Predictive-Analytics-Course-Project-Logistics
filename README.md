@@ -8,8 +8,8 @@
 - Operations Research
 - Predictive Analytics
 
-  ## Business Problem
-  The State Emergency Logistics Agency (SELA) distributes emergency relief kits through a statewide logistics network. The objective was to determine the lowest-cost distribution strategy while ensuring all demand locations received required inventory.
+## Business Problem
+The State Emergency Logistics Agency (SELA) distributes emergency relief kits through a statewide logistics network. The objective was to determine the lowest-cost distribution strategy while ensuring all demand locations received required inventory.
 
 The project evaluated:
 
