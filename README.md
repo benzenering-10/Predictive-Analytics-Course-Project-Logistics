@@ -1,12 +1,17 @@
 # Emergency Logistics Network Optimization
 
-## Tools Used
+## Tools Used and Key Skills Demonstrated
 - Google Colab
 - AMPL
 - Linear Programming
 - Network Optimization
 - Operations Research
 - Predictive Analytics
+- Supply Chain Analytics
+- Logistic Network Design
+- Facility Location Analysis
+- Mathematical Modeling
+- Cost Analysis
 
 ## Project Overview
 The project develops and solves a series of linear programming models for the State Emergency Logistics Agency (SELA). The objective is to minimize monthly distribution costs while satisfying relief kit demand across multiple service regions.
@@ -32,5 +37,12 @@ Evaluated candidate facilities considering transportation and fixed operating co
 ### Part 3: Cost Change Scenario
 Re-solved the expansion model under modified transportation costs and interpreted the results.
 
+## Deliverables
+[View Report and Project Notebook](./BAN501_Course_Project_Mason_Michele.ipynb%20-%20Colab.pdf)
+
+## Mathematical Formulation
+### Part 1: Transportation Linear Program
+### Part 2: Facility Location Model
+### Part 3: Sensitivity Analysis
 
 
