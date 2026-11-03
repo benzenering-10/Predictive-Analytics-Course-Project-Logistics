@@ -40,8 +40,9 @@ Re-solved the expansion model under modified transportation costs and interprete
 ## Deliverables
 [View Report and Project Notebook](./BAN501_Course_Project_Mason_Michele.ipynb%20-%20Colab.pdf)
 
-## Mathematical Formulation
+## Mathematical Formulations
 ### Part 1: Transportation Linear Program
+
 <img width="464" height="397" alt="image" src="https://github.com/user-attachments/assets/a849114a-616e-4a9f-9c22-38663d7d00f7" />
 
 <img width="365" height="524" alt="image" src="https://github.com/user-attachments/assets/21c18070-e0c1-4cfe-9dcf-88a0d7e0cf03" />
@@ -50,7 +51,14 @@ Re-solved the expansion model under modified transportation costs and interprete
 
 <img width="423" height="500" alt="image" src="https://github.com/user-attachments/assets/92f5c81b-27fb-458f-baf2-1bff31d885af" />
 
+
+
+
+
 ### Part 2: Facility Location Model
+<img width="763" height="894" alt="image" src="https://github.com/user-attachments/assets/85d049fd-d5f7-428a-9050-d586ec84045c" />
+
+
 ### Part 3: Sensitivity Analysis
 
 
