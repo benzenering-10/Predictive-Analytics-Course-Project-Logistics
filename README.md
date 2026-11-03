@@ -35,4 +35,15 @@ The two existing facilities will remain operational, but their current capacity 
 <img width="659" height="522" alt="image" src="https://github.com/user-attachments/assets/38dd2264-ec51-4dcd-9cf2-02d4882cff85" />
 
 
+### Part 3: Scenario and Risk Analysis
+Facility expansion is a long-term commitment. SELA leadership wants to test the robustness of the expansion plan against potential disruptions.
+
+In this scenario, a new mutual aid agreement lowers the unit transportation costs from the Coastal and Inland depots to the Coastal and Highland zones. Concurrently, severe road damage adds a routing surcharge on the northern routes traveling to the Urban and Central zones.
+
+<img width="639" height="522" alt="image" src="https://github.com/user-attachments/assets/30db1432-e99f-40d2-8dd7-334defed93be" />
+
+<img width="723" height="211" alt="image" src="https://github.com/user-attachments/assets/6ee586f0-6e34-48ab-83ce-21cc5e4ebfac" />
+
+
+
 
