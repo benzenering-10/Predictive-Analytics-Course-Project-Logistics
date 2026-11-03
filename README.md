@@ -42,6 +42,14 @@ Re-solved the expansion model under modified transportation costs and interprete
 
 ## Mathematical Formulation
 ### Part 1: Transportation Linear Program
+<img width="464" height="397" alt="image" src="https://github.com/user-attachments/assets/a849114a-616e-4a9f-9c22-38663d7d00f7" />
+
+<img width="365" height="524" alt="image" src="https://github.com/user-attachments/assets/21c18070-e0c1-4cfe-9dcf-88a0d7e0cf03" />
+
+<img width="435" height="503" alt="image" src="https://github.com/user-attachments/assets/39290202-5ee3-4e92-96c6-282753400426" />
+
+<img width="423" height="500" alt="image" src="https://github.com/user-attachments/assets/92f5c81b-27fb-458f-baf2-1bff31d885af" />
+
 ### Part 2: Facility Location Model
 ### Part 3: Sensitivity Analysis
 
