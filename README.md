@@ -25,3 +25,14 @@ SELA currently operates two facilities: the Northern Emergency Depot (E1) and th
 <img width="556" height="262" alt="image" src="https://github.com/user-attachments/assets/e7a6ed7a-9d09-4e7d-b0f4-08b0b42f76da" />
 
 
+### Part 2: Planning for Expansion
+SELA expects demand for relief kits to increase across all current zones. They also need to add a new coverage area: the Desert Response Zone (D6).
+
+The two existing facilities will remain operational, but their current capacity cannot handle the projected future demand. SELA has identified four candidate facilities to absorb the excess demand. Each candidate facility has a monthly capacity and a fixed monthly operating cost. SELA incurs this fixed cost only if they choose to open that specific facility.
+
+<img width="610" height="517" alt="image" src="https://github.com/user-attachments/assets/6d35bbe5-a903-48a5-9ec2-4cd0425b6187" />
+
+<img width="659" height="522" alt="image" src="https://github.com/user-attachments/assets/38dd2264-ec51-4dcd-9cf2-02d4882cff85" />
+
+
+
