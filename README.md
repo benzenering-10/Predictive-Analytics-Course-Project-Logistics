@@ -21,6 +21,7 @@ SELA currently operates two facilities: the Northern Emergency Depot (E1) and th
 
 <img width="566" height="445" alt="image" src="https://github.com/user-attachments/assets/dcfddc96-5f2e-4efa-b591-d89757e3e4c3" />
 
+
 <img width="556" height="262" alt="image" src="https://github.com/user-attachments/assets/e7a6ed7a-9d09-4e7d-b0f4-08b0b42f76da" />
 
 
